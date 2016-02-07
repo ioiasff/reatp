@@ -1,4 +1,4 @@
 # reatp
-[Admin](telegram.me/arash_admin_death
-[Bot](telegram.me/botdeath)
-[Channel](telegram.me/deathch)
+[Admin](https://telegram.me/arash_admin_death)
+[Bot](https://telegram.me/botdeath)
+[Channel](https://telegram.me/deathch)
